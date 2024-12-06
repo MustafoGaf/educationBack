@@ -1,0 +1,884 @@
+[
+  {
+    "course_id": 6,
+    "name": "Figma",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Шиносоӣ бо интерфейси Figma.",
+        "description": "Эҷоди интерфейсҳои зебо ва қулай.",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "Дар ин дарс мо бо асосҳои UI-дизайн шеносо мешавем, ки инчунин эстетика ва функсионалиро дар бар мегирад.",
+        "src_video": "/video/figma/1.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Тарроҳии рамзи интерфейс.",
+        "description": "Омӯзиши тарроҳии рамзҳои графикӣ барои веб ва мобилӣ.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Мо бо тарроҳии рамзҳои визуалӣ ва қисмҳои интерфейси веб ва мобилӣ шеносо мешавем.",
+        "src_video": "https://path/to/video2.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Кор бо қабатҳои (layers) ва ҷузъҳо.",
+        "description": "Использование слоёв и компонентов для создания сложных интерфейсов.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Мо омӯхтани истифодаи қабатҳои (layers) ва ҷузъҳо (components) барои сохтани тарҳҳои мураккаб ва муассир.",
+        "src_video": "https://path/to/video3.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Прототипсозӣ дар Figma.",
+        "description": "Дар ин дарс, мо омӯхтани роҳҳои нашр ва экспорт кардани лоиҳаҳо барои истифодаи веб ва чопро мебинем.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Дар ин дарс, мо прототипсозии интерфейсҳоро меомӯзем, ки барои нишон додани функционалности интерфейс истифода мешаванд.",
+        "src_video": "https://path/to/video4.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Ҳамкорӣ ва мубодилаи лоиҳаҳо.",
+        "description": "Обмен и совместная работа над проектами в Figma.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Мо омӯхтани ҳамкорӣ ва мубодила кардани лоиҳаҳо бо гурӯҳ ва мизоҷон дар Figma.",
+        "src_video": "https://path/to/video5.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Публикация и экспорт проекта.",
+        "description": "Как публиковать и экспортировать проект для веба или печати.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": null,
+        "content": "Дар ин дарс, мо омӯхтани роҳҳои нашр ва экспорт кардани лоиҳаҳо барои истифодаи веб ва чопро мебинем.",
+        "src_video": "https://path/to/video6.mp4"
+      },
+      {
+        "course_id": 6,
+        "id": 1733401541182,
+        "name": "3243534543645654645645",
+        "description": "kjhfkjhsdkfhdsfhjsdkfhkjsdhfk",
+        "has_video": true,
+        "has_content": false,
+        "prev": "4",
+        "next": "212",
+        "content": "kjhkjfdfhgkjdfshk",
+        "src_video": "jkhgkdjfhgkdfg"
+      }
+    ]
+  },
+  {
+    "course_id": 2,
+    "name": "UI",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Основы UI-дизайна",
+        "description": "Создание визуально привлекательных и удобных интерфейсов.",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "В этом уроке мы изучим основные принципы UI-дизайна, включая эстетику и функциональность.",
+        "src_video": "https://path/to/video9.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Цветовая палитра",
+        "description": "Подбор гармоничных цветов и их использование в дизайне.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Этот урок научит вас подбирать и использовать гармоничные цвета в дизайне интерфейсов.",
+        "src_video": "https://path/to/video10.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Типографика",
+        "description": "Работа со шрифтами, размером текста и межстрочным интервалом.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "В уроке будет рассмотрено, как использовать шрифты и текстовые стили для создания читаемых интерфейсов.",
+        "src_video": "https://path/to/video11.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Иконки и графические элементы",
+        "description": "Использование иконок для улучшения интерфейса и UX.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Мы разберем использование иконок и графических элементов для улучшения UX-дизайна.",
+        "src_video": "https://path/to/video12.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Принципы визуального дизайна",
+        "description": "Выравнивание, контраст, баланс, пространство и пропорции.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Основные принципы визуального дизайна, такие как выравнивание и контраст, помогут вам создать эффективный интерфейс.",
+        "src_video": "https://path/to/video13.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Компоненты интерфейса",
+        "description": "Кнопки, формы, модальные окна, вкладки и другие элементы.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "В этом уроке мы изучим компоненты интерфейса, такие как кнопки, формы и вкладки.",
+        "src_video": "https://path/to/video14.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Дизайн-системы",
+        "description": "Создание и использование универсальных компонентов в рамках проекта.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": 8,
+        "content": "Мы рассмотрим, как создать и использовать дизайн-системы для унификации компонентов в интерфейсе.",
+        "src_video": "https://path/to/video15.mp4"
+      },
+      {
+        "id": 8,
+        "name": "Инструменты",
+        "description": "Figma, Adobe XD, Sketch и другие программы для создания UI.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 7,
+        "next": 9,
+        "content": "Этот урок охватывает инструменты для UI-дизайна, включая Figma и Adobe XD.",
+        "src_video": "https://path/to/video16.mp4"
+      },
+      {
+        "id": 9,
+        "name": "Анимации",
+        "description": "Создание плавных переходов, анимации кнопок и других элементов.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 8,
+        "next": 10,
+        "content": "Мы научим вас создавать анимации и плавные переходы в интерфейсах.",
+        "src_video": "https://path/to/video17.mp4"
+      },
+      {
+        "id": 10,
+        "name": "Адаптивный дизайн",
+        "description": "Оптимизация интерфейса для различных экранов и устройств.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 9,
+        "next": null,
+        "content": "Этот урок посвящён адаптивному дизайну и оптимизации интерфейсов для различных устройств.",
+        "src_video": "https://path/to/video18.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 7,
+    "name": "UX",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Шиносоии бо асосҳои UX.",
+        "description": "Асосҳои тарроҳии таҷрибаи корбар (UX).",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "Дар ин дарс мо бо асосҳои UX шеносо мешавем, ки чӣ гуна таҷрибаи корбар бояд бароҳат, фаҳмо ва муассир бошад.",
+        "src_video": "/video/ux/1.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Таҳлили корбар (User Research).",
+        "description": "Таҳлили эҳтиёҷот ва рафтори корбарон.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Мо таҳлили эҳтиёҷот ва рафтори корбаронро мебинем, ки барои сохтани интерфейсҳои муассир зарур аст.",
+        "src_video": "https://path/to/video2.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Эҷоди персонажи корбар (User Personas).",
+        "description": "Таҳияи персонажҳои корбар барои тарроҳии муассир.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Дар ин дарс мо омӯхтани эҷоди персонажҳои корбар барои фаҳмидани эҳтиёҷот ва рафтори онҳо.",
+        "src_video": "https://path/to/video3.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Сохтани каркаси (Wireframing).",
+        "description": "Эҷоди каркасҳои асосии интерфейс барои таҳия.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Мо омӯхтани эҷоди каркасҳо (wireframes) ва прототипҳо барои намоиши тарҳҳои интерфейси корбарро шеносо мекунем.",
+        "src_video": "https://path/to/video4.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Прототипсозӣ ва санҷиш (Prototyping and Testing).",
+        "description": "Сохтани прототипи интерактивӣ ва санҷиши корбар.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Мо омӯхтани тарроҳии прототипи интерактивӣ ва санҷиш бо корбарон барои фаҳмидани самаранокии интерфейсро мебинем.",
+        "src_video": "https://path/to/video5.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Ҳамкорӣ бо гурӯҳ ва мизоҷон.",
+        "description": "Ҳамкорӣ ва мубодила кардани тарҳҳо бо гурӯҳ ва мизоҷон.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Дар ин дарс мо омӯхтани ҳамкорӣ бо гурӯҳҳо ва мизоҷон барои беҳтар кардани тарҳҳо ва қабул кардани паскориҳоро мебинем.",
+        "src_video": "https://path/to/video6.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Таҳлили натиҷаҳо ва такмил додани UX.",
+        "description": "Шеносоии бо таҳлили натиҷаҳо ва такмил додани UX.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": null,
+        "content": "Мо омӯхтани таҳлили натиҷаҳо, таҳлили маълумот ва такмил додани таҷрибаи корбар дар асоси ҷавобҳои мизоҷон ва корбаронро мебинем.",
+        "src_video": "https://path/to/video7.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 1733306441257,
+    "name": "Моуш дизайн",
+    "lessons": [
+      {
+        "course_id": 1733306441257,
+        "id": 1,
+        "name": "Шиносоии бо интерфейси Photoshop",
+        "description": "Омӯзиш дар бораи интерфейси Photoshop ва тугмаҳо барои оғоз кардани кор.",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": "2",
+        "content": "Дар ин дарс мо бо интерфейси Photoshop шеносо мешавем, аз ҷумла тугмаҳо, панелҳо ва асбобҳои асосии барнома.",
+        "src_video": "/video/design/1.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Тасвир ва навсозии тасвирҳо.",
+        "description": "Кор бо тасвирҳои растрӣ ва редаксия кардани онҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Мо омӯхтани тартиби кор бо тасвирҳои растриро дар Photoshop ва ҳосил кардани натиҷаҳои чуқурро мебинем.",
+        "src_video": "https://path/to/video2.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Тарроҳии қабатҳо ва маски тасвир.",
+        "description": "Использование слоев и масок для улучшения дизайна.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Мо омӯхтани истифодаи қабатҳо ва маскҳо барои тарҳсозии бехатар ва мукаммалро мебинем.",
+        "src_video": "https://path/to/video3.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Кор бо рангҳо ва фойдаҳо.",
+        "description": "Использование цветов и градиентов в Photoshop для дизайна.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Мо омӯхтани истифодаи рангҳо ва градиентҳо барои эҷоди эффектҳои ҷолиб дар Photoshop.",
+        "src_video": "https://path/to/video4.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Ретуши портрет ва тасвирҳо.",
+        "description": "Использование инструментов для ретуширования изображений.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Мо омӯхтани ретуши портрет ва тасвирҳоро барои беҳтар кардани сифати тасвир бо истифода аз асбобҳои Photoshop.",
+        "src_video": "https://path/to/video5.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Эҷоди эффектҳои махсус.",
+        "description": "Тасвирсозии эффектҳои махсус ва аниматсияҳо дар Photoshop.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Мо омӯхтани эҷоди эффектҳои махсус ва аниматсияҳо дар тасвирҳо барои интихоби беҳтарин натиҷаҳои визуалӣ.",
+        "src_video": "https://path/to/video6.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Чоп ва содир кардани файл.",
+        "description": "Содир кардани файлҳо дар форматҳои гуногун барои чоп ва истифода дар лоиҳаҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": null,
+        "content": "Дар ин дарс мо омӯхтани тартиби содир кардани файлҳо дар Photoshop ва истифодаи форматҳои гуногунро барои чоп ва веб мебинем.",
+        "src_video": "https://path/to/video7.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 1733306533321,
+    "name": "PhotoShop",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Шеносоии бо интерфейси Photoshop.",
+        "description": "Омӯзиш дар бораи интерфейси Photoshop ва тугмаҳо барои оғоз кардани кор.",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "Дар ин дарс мо бо интерфейси Photoshop шеносо мешавем, аз ҷумла тугмаҳо, панелҳо ва асбобҳои асосии барнома.",
+        "src_video": "/video/photoshop/1.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Тасвир ва навсозии тасвирҳо.",
+        "description": "Кор бо тасвирҳои растрӣ ва редаксия кардани онҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Мо омӯхтани тартиби кор бо тасвирҳои растриро дар Photoshop ва ҳосил кардани натиҷаҳои чуқурро мебинем.",
+        "src_video": "https://path/to/video2.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Тарроҳии қабатҳо ва маски тасвир.",
+        "description": "Использование слоев и масок для улучшения дизайна.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Мо омӯхтани истифодаи қабатҳо ва маскҳо барои тарҳсозии бехатар ва мукаммалро мебинем.",
+        "src_video": "https://path/to/video3.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Кор бо рангҳо ва фойдаҳо.",
+        "description": "Использование цветов и градиентов в Photoshop для дизайна.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Мо омӯхтани истифодаи рангҳо ва градиентҳо барои эҷоди эффектҳои ҷолиб дар Photoshop.",
+        "src_video": "https://path/to/video4.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Ретуши портрет ва тасвирҳо.",
+        "description": "Использование инструментов для ретуширования изображений.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Мо омӯхтани ретуши портрет ва тасвирҳоро барои беҳтар кардани сифати тасвир бо истифода аз асбобҳои Photoshop.",
+        "src_video": "https://path/to/video5.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Эҷоди эффектҳои махсус.",
+        "description": "Тасвирсозии эффектҳои махсус ва аниматсияҳо дар Photoshop.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Мо омӯхтани эҷоди эффектҳои махсус ва аниматсияҳо дар тасвирҳо барои интихоби беҳтарин натиҷаҳои визуалӣ.",
+        "src_video": "https://path/to/video6.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Чоп ва содир кардани файл.",
+        "description": "Содир кардани файлҳо дар форматҳои гуногун барои чоп ва истифода дар лоиҳаҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": null,
+        "content": "Дар ин дарс мо омӯхтани тартиби содир кардани файлҳо дар Photoshop ва истифодаи форматҳои гуногунро барои чоп ва веб мебинем.",
+        "src_video": "https://path/to/video7.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 1733306670419,
+    "name": "CorelDraw",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Шиносоии бо интерфейси CorelDRAW.",
+        "description": "Асосҳои интерфейси CorelDRAW ва роҳнамои истифода.",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "Дар ин дарс мо бо интерфейси CorelDRAW шеносо мешавем ва роҳнамои асосии истифодаи онро мебинем.",
+        "src_video": "/video/corel/1.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Тарроҳии шаклҳои асосӣ.",
+        "description": "Эҷоди шаклҳои асосии графикӣ дар CorelDRAW.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Мо омӯхтани эҷоди шаклҳои асосии графикӣ дар CorelDRAW, аз қабили мураббаъ, давра ва хатҳоро мебинем.",
+        "src_video": "https://path/to/video2.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Кор бо рангҳо ва фоидаҳо.",
+        "description": "Истифодаи рангҳо ва градиентҳо барои беҳтар кардани тарҳҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Мо омӯхтани истифодаи рангҳо ва градиентҳо барои эҷоди тарҳҳои ҷолиб ва таъсирбахш дар CorelDRAW.",
+        "src_video": "https://path/to/video3.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Тарроҳии текст ва аниматсия.",
+        "description": "Эҷоди аниматсияҳо ва истифодаи матн дар тарҳҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Мо омӯхтани тарроҳии матн ва аниматсияҳо дар CorelDRAW ва чӣ гуна истифода бурдани матн дар лоиҳаҳо.",
+        "src_video": "https://path/to/video4.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Кор бо расмҳо ва тасвирҳо.",
+        "description": "Работа с изображениями и фотографиями.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Мо омӯхтани кор бо расмҳо ва тасвирҳои JPEG, PNG ва дигар форматҳо барои эҷоди тарҳҳо дар CorelDRAW.",
+        "src_video": "https://path/to/video5.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Векторизатсия кардани тасвирҳо.",
+        "description": "Тасвирҳои растриро ба векторӣ табдил медиҳем.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Мо омӯхтани векторизатсия кардани тасвирҳои растри дар CorelDRAW ва истифодаи абзорҳо барои эҷоди нақшаи векториро мебинем.",
+        "src_video": "https://path/to/video6.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Чоп ва содир кардани тарҳ.",
+        "description": "Чоп ва содир кардани файлҳои тарҳ барои истифода дар лоиҳаҳо.",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": null,
+        "content": "Дар ин дарс мо омӯхтани чоп ва содир кардани тарҳҳо дар форматҳои гуногун барои истифода дар лоиҳаҳо ва чопи графикӣ.",
+        "src_video": "https://path/to/video7.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 5,
+    "name": "HTML",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Муқаддима ба барномасозӣ",
+        "description": "Шарҳи кӯтоҳи барномасозӣ",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "Дар ин дарс шумо бо мафҳумҳои асосии барномасозӣ шинос мешавед.",
+        "src_video": "intro.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Синтаксиси асосӣ",
+        "description": "Синтаксис ва қоидаҳои асосӣ",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Дар ин дарс мо синтаксиси асосии забони барномасозиро меомӯзем.",
+        "src_video": "syntax.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Ҳалқаҳо",
+        "description": "Шарҳи ҳалқаҳо ва истифодаи онҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "Дар ин дарс шумо меомӯзед, ки чӣ гуна ҳалқаҳо дар барномасозӣ кор мекунанд.",
+        "src_video": "loops.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Шарти иф",
+        "description": "Истифодаи шарти 'if'",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Дар ин дарс шумо мефаҳмед, ки чӣ гуна бо шарти 'if' қарор қабул кардан мумкин аст.",
+        "src_video": "if.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Массивҳо",
+        "description": "Маълумот дар бораи массивҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Массивҳо як воситаи муҳим барои нигоҳдории маълумоти структурӣ мебошанд.",
+        "src_video": "arrays.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Функсияҳо",
+        "description": "Функсияҳо ва тарзи эҷоди онҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Функсияҳо ба мо имконият медиҳанд, ки кодро такрор накунем.",
+        "src_video": "functions.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Объектҳо",
+        "description": "Шарҳи объектҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": 8,
+        "content": "Объектҳо барои сохтани маълумоти мураккаб истифода мешаванд.",
+        "src_video": "objects.mp4"
+      },
+      {
+        "id": 8,
+        "name": "Муқаддима ба OOP",
+        "description": "Принсипҳои асосии OOP",
+        "has_video": true,
+        "has_content": true,
+        "prev": 7,
+        "next": 9,
+        "content": "Дар ин дарс мо бо Принсипҳои Объектӣ Барномасозӣ (OOP) шинос мешавем.",
+        "src_video": "oop_intro.mp4"
+      },
+      {
+        "id": 9,
+        "name": "Модулҳо ва китобхонаҳо",
+        "description": "Чӣ гуна модулҳо ва китобхонаҳоро истифода бурдан мумкин аст",
+        "has_video": true,
+        "has_content": true,
+        "prev": 8,
+        "next": 10,
+        "content": "Модулҳо ва китобхонаҳо ба мо имконият медиҳанд, ки вазифаҳои мураккабро осон созем.",
+        "src_video": "modules.mp4"
+      },
+      {
+        "id": 10,
+        "name": "Лоиҳаи ниҳоӣ",
+        "description": "Лоиҳаи амалӣ барои ҷамъбасти курс",
+        "has_video": true,
+        "has_content": true,
+        "prev": 9,
+        "next": null,
+        "content": "Дар ин лоиҳа шумо ҳамаи чизҳои омӯхтаро истифода мебаред.",
+        "src_video": "final_project.mp4"
+      }
+    ]
+  },
+  {
+    "course_id": 6,
+    "name": "CSS",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Муқаддима ба CSS",
+        "description": "Шарҳи кӯтоҳ дар бораи CSS",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "CSS як забони услуббандӣ барои HTML мебошад, ки барои зебогии вебсафҳаҳо истифода мешавад.",
+        "src_video": "css_intro.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Синтаксиси CSS",
+        "description": "Қоидаҳо ва синтаксиси асосии CSS",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "Синтаксиси CSS аз селекторҳо ва қоидаҳо иборат аст, ки ҳар кадом услубро муайян мекунанд.",
+        "src_video": "css_syntax.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Рангҳо дар CSS",
+        "description": "Чӣ гуна рангҳоро татбиқ кардан мумкин аст",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "CSS барои таъйини рангҳо бо истифодаи HEX, RGB, ва HSL имконият медиҳад.",
+        "src_video": "css_colors.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Хусусиятҳои матн",
+        "description": "Хусусиятҳои матнро танзим кунед",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Шумо метавонед андоза, ранг, фосила ва намуди матнро дар CSS танзим кунед.",
+        "src_video": "css_text.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Қуттиҳо ва моделҳои қуттӣ",
+        "description": "Модели қуттии CSS-ро фаҳмед",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Модели қуттӣ асоси ҳама унсурҳои HTML мебошад, ки аз padding, margin, ва border иборат аст.",
+        "src_video": "css_box_model.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Layout: Flexbox",
+        "description": "Тарзи истифодаи Flexbox барои макет",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Flexbox як системаи пурқуввати танзими макет мебошад, ки барои ҷойгир кардани унсурҳо дар контейнер истифода мешавад.",
+        "src_video": "css_flexbox.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Grid Layout",
+        "description": "Чӣ гуна макети Grid эҷод кардан мумкин аст",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": 8,
+        "content": "Grid Layout як воситаи қавии макет мебошад, ки ба шумо барои сохтани саҳифаҳои мураккаб кӯмак мекунад.",
+        "src_video": "css_grid.mp4"
+      },
+      {
+        "id": 8,
+        "name": "CSS Animations",
+        "description": "Чӣ гуна аниматсияҳо дар CSS кор мекунанд",
+        "has_video": true,
+        "has_content": true,
+        "prev": 7,
+        "next": 9,
+        "content": "Аниматсияҳо ба шумо имкон медиҳанд, ки эффектҳои динамикӣ ба унсурҳо татбиқ кунед.",
+        "src_video": "css_animations.mp4"
+      },
+      {
+        "id": 9,
+        "name": "Media Queries",
+        "description": "Барои танзимоти респонсивӣ",
+        "has_video": true,
+        "has_content": true,
+        "prev": 8,
+        "next": 10,
+        "content": "Media Queries ба шумо имкон медиҳад, ки вебсафҳаҳоро барои экранҳои гуногун мутобиқ кунед.",
+        "src_video": "css_media_queries.mp4"
+      },
+      {
+        "id": 10,
+        "name": "Лоиҳаи ниҳоӣ: Дизайни веб",
+        "description": "Лоиҳаи амалӣ барои истифодаи CSS",
+        "has_video": true,
+        "has_content": true,
+        "prev": 9,
+        "next": null,
+        "content": "Лоиҳаи ниҳоӣ барои таҳияи саҳифаи веб бо истифодаи ҳама мафҳумҳои CSS.",
+        "src_video": "css_final_project.mp4"
+      }
+    ]
+  },
+
+  {
+    "course_id": 77,
+    "name": "JavaScript",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "Муқаддима ба JavaScript",
+        "description": "Шарҳи кӯтоҳ дар бораи JavaScript",
+        "has_video": true,
+        "has_content": true,
+        "prev": null,
+        "next": 2,
+        "content": "JavaScript як забони барномасозии динамикӣ барои эҷоди саҳифаҳои интерактивии веб мебошад.",
+        "src_video": "js_intro.mp4"
+      },
+      {
+        "id": 2,
+        "name": "Пайваст кардани JavaScript ба HTML",
+        "description": "Чӣ гуна JavaScript-ро ба вебсафҳа пайваст кунем",
+        "has_video": true,
+        "has_content": true,
+        "prev": 1,
+        "next": 3,
+        "content": "JavaScript-ро метавон бо истифода аз `<script>` дар дохили HTML илова кард.",
+        "src_video": "js_connect.mp4"
+      },
+      {
+        "id": 3,
+        "name": "Параметрҳо ва операторҳо",
+        "description": "Маълумоти асосӣ дар бораи параметрҳо ва операторҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 2,
+        "next": 4,
+        "content": "JavaScript дорои операторҳои ҳисобӣ, мантиқӣ ва муқоисавӣ мебошад.",
+        "src_video": "js_variables_operators.mp4"
+      },
+      {
+        "id": 4,
+        "name": "Шарти if/else",
+        "description": "Чӣ гуна бо шарти if/else кор кунем",
+        "has_video": true,
+        "has_content": true,
+        "prev": 3,
+        "next": 5,
+        "content": "Шарти if/else барои қабули қарорҳо истифода мешавад.",
+        "src_video": "js_if_else.mp4"
+      },
+      {
+        "id": 5,
+        "name": "Функсияҳо дар JavaScript",
+        "description": "Эҷоди функсияҳо ва истифодаи онҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 4,
+        "next": 6,
+        "content": "Функсияҳо ба шумо имкон медиҳанд, ки кодро такрор накунед ва онро тоза нигоҳ доред.",
+        "src_video": "js_functions.mp4"
+      },
+      {
+        "id": 6,
+        "name": "Ҳодисаҳо (Events)",
+        "description": "Ҳодисаҳо ва тарзи коркарди онҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 5,
+        "next": 7,
+        "content": "Ҳодисаҳо ба шумо имкон медиҳанд, ки бо интераксияи корбар кор кунед.",
+        "src_video": "js_events.mp4"
+      },
+      {
+        "id": 7,
+        "name": "Кор бо массивҳо",
+        "description": "Чӣ гуна массивҳоро эҷод ва идора кардан мумкин аст",
+        "has_video": true,
+        "has_content": true,
+        "prev": 6,
+        "next": 8,
+        "content": "Массивҳо як воситаи муҳим барои нигоҳ доштани маълумот дар JavaScript мебошанд.",
+        "src_video": "js_arrays.mp4"
+      },
+      {
+        "id": 8,
+        "name": "Объектҳо дар JavaScript",
+        "description": "Шарҳи асосӣ дар бораи объектҳо",
+        "has_video": true,
+        "has_content": true,
+        "prev": 7,
+        "next": 9,
+        "content": "Объектҳо дар JavaScript барои нигоҳ доштани маълумоти мураккаб истифода мешаванд.",
+        "src_video": "js_objects.mp4"
+      },
+      {
+        "id": 9,
+        "name": "Асинхронӣ: Callbacks ва Promises",
+        "description": "Асинхронӣ ва кор бо Callbacks/Promises",
+        "has_video": true,
+        "has_content": true,
+        "prev": 8,
+        "next": 10,
+        "content": "Асинхронӣ ба шумо имкон медиҳад, ки вазифаҳои вақтталабро коркард кунед.",
+        "src_video": "js_async.mp4"
+      },
+      {
+        "id": 10,
+        "name": "Лоиҳаи ниҳоӣ: JavaScript дар амал",
+        "description": "Лоиҳае, ки ҳамаи мафҳумҳои JavaScript-ро истифода мебарад",
+        "has_video": true,
+        "has_content": true,
+        "prev": 9,
+        "next": null,
+        "content": "Дар ин лоиҳа шумо ҳамаи чизҳои омӯхтаро дар амал татбиқ мекунед.",
+        "src_video": "js_final_project.mp4"
+      }
+    ]
+  }
+]

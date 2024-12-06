@@ -1,0 +1,117 @@
+[
+  {
+    "test": "html",
+    "questions": [
+      {
+        "question": "Тег барои сохтани сатри асосии унвони вебсафҳа кадом аст?",
+        "options": ["<title>", "<h1>", "<header>", "<head>"],
+        "correct_answer": "<title>"
+      },
+      {
+        "question": "Кадом тег барои сохтани пайванд истифода мешавад?",
+        "options": ["<a>", "<link>", "<href>", "<p>"],
+        "correct_answer": "<a>"
+      },
+      {
+        "question": "Кадом тег барои таъйини ҷадвал истифода мешавад?",
+        "options": ["<table>", "<tr>", "<td>", "<div>"],
+        "correct_answer": "<table>"
+      },
+      {
+        "question": "Кадом тег барои дохил кардани тасвир истифода мешавад?",
+        "options": ["<img>", "<src>", "<picture>", "<media>"],
+        "correct_answer": "<img>"
+      },
+      {
+        "question": "Теги дурусти фарогир барои ҳамаи дигар тегҳо кадом аст?",
+        "options": ["<html>", "<body>", "<div>", "<head>"],
+        "correct_answer": "<html>"
+      },
+      {
+        "question": "Тег барои сохтани рӯйхати ноқис кадом аст?",
+        "options": ["<ul>", "<ol>", "<li>", "<dl>"],
+        "correct_answer": "<ul>"
+      },
+      {
+        "question": "Тег барои муайян кардани сарлавҳаи асосӣ дар саҳифа кадом аст?",
+        "options": ["<h1>", "<header>", "<title>", "<head>"],
+        "correct_answer": "<h1>"
+      },
+      {
+        "question": "Кадом атрибут барои пайваст кардани файли CSS истифода мешавад?",
+        "options": ["rel", "type", "src", "href"],
+        "correct_answer": "href"
+      },
+      {
+        "question": "Кадом атрибут ба `<input>` навъи рамзи гузарвожаро медиҳад?",
+        "options": [
+          "type='password'",
+          "type='text'",
+          "type='hidden'",
+          "type='secure'"
+        ],
+        "correct_answer": "type='password'"
+      },
+      {
+        "question": "Кадом тег барои илова кардани видео ба вебсафҳа истифода мешавад?",
+        "options": ["<video>", "<media>", "<source>", "<iframe>"],
+        "correct_answer": "<video>"
+      }
+    ]
+  },
+  {
+    "test": "css",
+    "questions": [
+      {
+        "question": "Кадом хосият дар CSS барои тағйири ранги матн истифода мешавад?",
+        "options": ["color", "background-color", "text-color", "font-color"],
+        "correct_answer": "color"
+      },
+      {
+        "question": "Барои таъйини андозаи матн кадом хосият истифода мешавад?",
+        "options": ["font-size", "text-size", "size", "font"],
+        "correct_answer": "font-size"
+      },
+      {
+        "question": "Кадом хосият фосила байни унсур ва сарҳадро муайян мекунад?",
+        "options": ["padding", "margin", "border", "spacing"],
+        "correct_answer": "padding"
+      },
+      {
+        "question": "Барои гузоштани ҳошия дар атрофи элемент кадом хосият истифода мешавад?",
+        "options": ["border", "margin", "outline", "padding"],
+        "correct_answer": "border"
+      },
+      {
+        "question": "Кадом хосият барои тағйири намуди курсор истифода мешавад?",
+        "options": ["cursor", "pointer", "mouse", "hover"],
+        "correct_answer": "cursor"
+      },
+      {
+        "question": "Кадом қимат дар `position` унсурро нисбати экрани умумӣ ҷойгир мекунад?",
+        "options": ["fixed", "absolute", "relative", "static"],
+        "correct_answer": "fixed"
+      },
+      {
+        "question": "Барои марказ кардани матн кадом хосият истифода мешавад?",
+        "options": ["text-align", "align", "justify", "font-align"],
+        "correct_answer": "text-align"
+      },
+      {
+        "question": "Кадом хосият фосила байни матнҳо ё сатҳҳоро таъйин мекунад?",
+        "options": ["line-height", "letter-spacing", "spacing", "text-spacing"],
+        "correct_answer": "line-height"
+      },
+      {
+        "question": "Барои гузоштани ранги пасзамина кадом хосият истифода мешавад?",
+        "options": ["background-color", "color", "fill", "back-color"],
+        "correct_answer": "background-color"
+      },
+      {
+        "question": "Кадом хосият эффекти соя ба матн илова мекунад?",
+        "options": ["text-shadow", "box-shadow", "shadow", "font-shadow"],
+        "correct_answer": "text-shadow"
+      }
+    ]
+  }
+]
