@@ -2,10 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
-    "dev": "nodemon index.js",
-    "vercel-build": "echo hello"
+    "dev": "node index.js",
+    "vercel-build": "node index.js",
+    "build": "node index.js"
   },
   "keywords": [],
   "author": "",

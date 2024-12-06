@@ -278,5 +278,6 @@ app.get("/statisca", async (req, res) => {
   const userTest = await UTest.getAll();
   res.send(JSON.stringify(userTest));
 });
-
-export default app;
+app.listen(3010, () => {
+  console.log("Server runing at http://localhost:3000");
+});
