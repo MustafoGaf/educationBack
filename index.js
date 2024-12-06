@@ -281,3 +281,5 @@ app.get("/statisca", async (req, res) => {
 app.listen(3000, () => {
   console.log("Server runing at http://localhost:3000");
 });
+
+export default app;
