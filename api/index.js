@@ -1,17 +1,17 @@
 const express = require("express");
 const path = require("path");
-const Course = require("./models/course");
-const Group = require("./models/group");
+const Course = require("../models/course");
+const Group = require("../models/group");
 const bodyParser = require("body-parser");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-const Users = require("./models/users");
-const Courses = require("./models/courses");
-const Lesson = require("./models/lessons");
+const Users = require("../models/users");
+const Courses = require("../models/course");
+const Lesson = require("../models/lessons");
 const cors = require("cors");
-const { log } = require("console");
-const Test = require("./models/test");
-const UTest = require("./models/userTest");
+const PORT = 4000;
+const Test = require("../models/test");
+const UTest = require("../models/userTest");
 const SECRET_KEY = "mustafo_gaforov";
 const app = express();
 app.use(express.urlencoded({ extended: true }));
@@ -278,8 +278,7 @@ app.get("/statisca", async (req, res) => {
   const userTest = await UTest.getAll();
   res.send(JSON.stringify(userTest));
 });
-app.listen(3000, () => {
-  console.log("Server runing at http://localhost:3000");
-});
+
+app.listen(PORT, () => console.log("Server ready on port 3000."));
 
 module.exports = app;
